@@ -1,0 +1,3 @@
+- src: https://github.com/tutunak/ansible-docker-centos.git
+  version: master
+  name: docker
